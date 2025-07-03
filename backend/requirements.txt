@@ -1,0 +1,3 @@
+fastapi
+uvicorn
+# Add ML and database libraries such as face-recognition, torch, pgvector, etc.
